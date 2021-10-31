@@ -14,7 +14,8 @@ class PokeBot:
     """Initiates the Bot"""
 
     def __init__(self):
-        bot.run(config_data["token"])
+        bot.run(config_data["OTAyOTExMzAwMTg1NzgwMjQ1.YXlTrQ.wkLhejzrRF1oVd_zL5z_Gd90OpY"])
+
 
     @bot.event
     async def on_ready():
